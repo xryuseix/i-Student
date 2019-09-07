@@ -1,0 +1,66 @@
+C:\Users\ryuse\source\Student Memorize Game\Student Memorize Game\obj\Debug\i Student.csprojAssemblyReference.cache
+C:\Users\ryuse\source\Student Memorize Game\Student Memorize Game\obj\Debug\Student Memorize Game.g.resources
+C:\Users\ryuse\source\Student Memorize Game\Student Memorize Game\obj\Debug\i_student.AddStudent.resources
+C:\Users\ryuse\source\Student Memorize Game\Student Memorize Game\obj\Debug\i_student.Correct.resources
+C:\Users\ryuse\source\Student Memorize Game\Student Memorize Game\obj\Debug\i_student.Csv.resources
+C:\Users\ryuse\source\Student Memorize Game\Student Memorize Game\obj\Debug\i_student.Form1.resources
+C:\Users\ryuse\source\Student Memorize Game\Student Memorize Game\obj\Debug\i_student.Grade.resources
+C:\Users\ryuse\source\Student Memorize Game\Student Memorize Game\obj\Debug\i_student.NameToPic.resources
+C:\Users\ryuse\source\Student Memorize Game\Student Memorize Game\obj\Debug\i_student.PicToName.resources
+C:\Users\ryuse\source\Student Memorize Game\Student Memorize Game\obj\Debug\Student_Memorize_Game.Properties.Resources.resources
+C:\Users\ryuse\source\Student Memorize Game\Student Memorize Game\obj\Debug\Student_Memorize_Game.Resources.Resource1.resources
+C:\Users\ryuse\source\Student Memorize Game\Student Memorize Game\obj\Debug\i_student.useDB.resources
+C:\Users\ryuse\source\Student Memorize Game\Student Memorize Game\obj\Debug\i_student.UserControl1.resources
+C:\Users\ryuse\source\Student Memorize Game\Student Memorize Game\obj\Debug\i_student.UserControl2.resources
+C:\Users\ryuse\source\Student Memorize Game\Student Memorize Game\obj\Debug\i_student.Wrong.resources
+C:\Users\ryuse\source\Student Memorize Game\Student Memorize Game\obj\Debug\i_student.Mainmenu.resources
+C:\Users\ryuse\source\Student Memorize Game\Student Memorize Game\obj\Debug\i_student.Conditions.resources
+C:\Users\ryuse\source\Student Memorize Game\Student Memorize Game\obj\Debug\i Student.csproj.GenerateResource.cache
+C:\Users\ryuse\source\Student Memorize Game\Student Memorize Game\obj\Debug\i Student.csproj.CoreCompileInputs.cache
+C:\Users\ryuse\source\Student Memorize Game\Student Memorize Game\obj\Debug\Student Memorize Game.exe
+C:\Users\ryuse\source\Student Memorize Game\Student Memorize Game\obj\Debug\Student Memorize Game.pdb
+C:\Users\ryuse\source\Student Memorize Game\Student Memorize Game\bin\Debug\Student Memorize Game.exe.config
+C:\Users\ryuse\source\Student Memorize Game\Student Memorize Game\bin\Debug\Student Memorize Game.exe
+C:\Users\ryuse\source\Student Memorize Game\Student Memorize Game\bin\Debug\Student Memorize Game.pdb
+C:\Users\ryuse\source\Student Memorize Game\Student Memorize Game\bin\Debug\EntityFramework.dll
+C:\Users\ryuse\source\Student Memorize Game\Student Memorize Game\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ryuse\source\Student Memorize Game\Student Memorize Game\bin\Debug\System.Data.SQLite.dll
+C:\Users\ryuse\source\Student Memorize Game\Student Memorize Game\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ryuse\source\Student Memorize Game\Student Memorize Game\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ryuse\source\Student Memorize Game\Student Memorize Game\bin\Debug\EntityFramework.xml
+C:\Users\ryuse\source\Student Memorize Game\Student Memorize Game\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ryuse\source\Student Memorize Game\Student Memorize Game\bin\Debug\System.Data.SQLite.xml
+C:\Users\ryuse\source\Student Memorize Game\Student Memorize Game\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\ryuse\source\Student Memorize Game\Student Memorize Game\obj\Debug\i Student.csproj.CopyComplete
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Debug\i_student.AddStudent.resources
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Debug\i_student.Correct.resources
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Debug\i_student.Form1.resources
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Debug\i_student.Grade.resources
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Debug\i_student.NameToPic.resources
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Debug\i_student.PicToName.resources
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Debug\i_student.useDB.resources
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Debug\i_student.UserControl1.resources
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Debug\i_student.UserControl2.resources
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Debug\i_student.Wrong.resources
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Debug\i_student.Mainmenu.resources
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Debug\i_student.Conditions.resources
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Debug\i Student.csproj.GenerateResource.cache
+C:\Users\ryuse\source\i Student\Student Memorize Game\bin\Debug\EntityFramework.dll
+C:\Users\ryuse\source\i Student\Student Memorize Game\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ryuse\source\i Student\Student Memorize Game\bin\Debug\System.Data.SQLite.dll
+C:\Users\ryuse\source\i Student\Student Memorize Game\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ryuse\source\i Student\Student Memorize Game\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ryuse\source\i Student\Student Memorize Game\bin\Debug\EntityFramework.xml
+C:\Users\ryuse\source\i Student\Student Memorize Game\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ryuse\source\i Student\Student Memorize Game\bin\Debug\System.Data.SQLite.xml
+C:\Users\ryuse\source\i Student\Student Memorize Game\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Debug\i Student.csproj.CoreCompileInputs.cache
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Debug\i Student.csproj.CopyComplete
+C:\Users\ryuse\source\i Student\Student Memorize Game\bin\Debug\i Student.exe.config
+C:\Users\ryuse\source\i Student\Student Memorize Game\bin\Debug\i Student.exe
+C:\Users\ryuse\source\i Student\Student Memorize Game\bin\Debug\i Student.pdb
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Debug\i Student.g.resources
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Debug\iStudent.Properties.Resources.resources
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Debug\iStudent.Resources.Resource1.resources
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Debug\i Student.exe
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Debug\i Student.pdb

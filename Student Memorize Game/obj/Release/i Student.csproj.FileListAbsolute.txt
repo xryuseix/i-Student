@@ -1,0 +1,34 @@
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Release\i Student.csprojAssemblyReference.cache
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Release\i Student.g.resources
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Release\i_student.AddStudent.resources
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Release\i_student.Correct.resources
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Release\i_student.Csv.resources
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Release\i_student.Form1.resources
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Release\i_student.Grade.resources
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Release\i_student.NameToPic.resources
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Release\i_student.PicToName.resources
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Release\iStudent.Properties.Resources.resources
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Release\iStudent.Resources.Resource1.resources
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Release\i_student.useDB.resources
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Release\i_student.UserControl1.resources
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Release\i_student.UserControl2.resources
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Release\i_student.Wrong.resources
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Release\i_student.Mainmenu.resources
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Release\i_student.Conditions.resources
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Release\i Student.csproj.GenerateResource.cache
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Release\i Student.csproj.CoreCompileInputs.cache
+C:\Users\ryuse\source\i Student\Student Memorize Game\bin\Release\i Student.exe.config
+C:\Users\ryuse\source\i Student\Student Memorize Game\bin\Release\i Student.exe
+C:\Users\ryuse\source\i Student\Student Memorize Game\bin\Release\i Student.pdb
+C:\Users\ryuse\source\i Student\Student Memorize Game\bin\Release\EntityFramework.dll
+C:\Users\ryuse\source\i Student\Student Memorize Game\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\ryuse\source\i Student\Student Memorize Game\bin\Release\System.Data.SQLite.dll
+C:\Users\ryuse\source\i Student\Student Memorize Game\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\ryuse\source\i Student\Student Memorize Game\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\ryuse\source\i Student\Student Memorize Game\bin\Release\EntityFramework.xml
+C:\Users\ryuse\source\i Student\Student Memorize Game\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\ryuse\source\i Student\Student Memorize Game\bin\Release\System.Data.SQLite.xml
+C:\Users\ryuse\source\i Student\Student Memorize Game\bin\Release\System.Data.SQLite.dll.config
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Release\i Student.csproj.CopyComplete
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Release\i Student.exe
+C:\Users\ryuse\source\i Student\Student Memorize Game\obj\Release\i Student.pdb
